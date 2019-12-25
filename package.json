@@ -1,0 +1,10 @@
+{
+  "name": "spa-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "workspaces": ["server","client"],
+  "repository": "https://github.com/jeonghoj/spa-practice",
+  "author": "jeonghoj <jeonghoj94@gmail.com>",
+  "license": "MIT"
+}
